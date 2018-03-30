@@ -161,7 +161,7 @@
 	<property name="pwd" value="H@rish143"/>
 	<property name="uid" value="admin"/>
 	<property name="log.level" value="debug"/>
-	<property name="checkpoint.name" value="checkpt1"/>
+	<property name="checkpoint.name" value="checkpoint1"/>
 <property name="domain" value="guests"/>
 	
 	<!--import-->
