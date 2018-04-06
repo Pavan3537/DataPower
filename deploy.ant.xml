@@ -158,7 +158,7 @@
 	<property name="host" value="172.17.12.59"/>
 	<property name="port" value="5550"/>
 	<!--it is optional, it can take default u can run this by removing the port property also-->
-	<property name="pwd" value="H@rish143"/>
+	<property name="pwd" value="miracle"/>
 	<property name="uid" value="admin"/>
 	<property name="log.level" value="debug"/>
 	<property name="checkpoint.name" value="checkpoint1"/>
